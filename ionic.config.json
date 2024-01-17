@@ -1,0 +1,7 @@
+{
+  "name": "intteko_checkList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
